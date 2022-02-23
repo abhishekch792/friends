@@ -1,0 +1,9 @@
+.navbar-inverse {
+    opacity: 0.5;
+}
+
+html body {
+    height:100%;
+    width:100%;
+}
+
